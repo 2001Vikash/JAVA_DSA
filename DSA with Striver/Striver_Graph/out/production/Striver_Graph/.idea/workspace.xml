@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28c77ad6-5540-4f7c-bb9e-032009173540" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RA7AswkmJYAlCo2sN8Ti5EjVTr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Desktop/JAVA/Dsa_Pepcoding&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.G_56_Articulation_Point_in_Graph">
+    <configuration name="G_52_Making_a_Large_Island_DSU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPH.G_52_Making_a_Large_Island_DSU" />
+      <module name="Striver_Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GRAPH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G_53_Most_Stones_Removed_with_Same_Row_or_Column_DSU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPH.G_53_Most_Stones_Removed_with_Same_Row_or_Column_DSU" />
+      <module name="Striver_Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GRAPH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G_54_Strongly_Connected_Components_Kosaraju_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPH.G_54_Strongly_Connected_Components_Kosaraju_Algorithm" />
+      <module name="Striver_Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GRAPH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G_55_Bridges_in_Graph_Using_Tarjans_Algorithm_of_Time_in_and_Low_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPH.G_55_Bridges_in_Graph_Using_Tarjans_Algorithm_of_Time_in_and_Low_Time" />
+      <module name="Striver_Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GRAPH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G_56_Articulation_Point_in_Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRAPH.G_56_Articulation_Point_in_Graph" />
+      <module name="Striver_Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GRAPH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.G_56_Articulation_Point_in_Graph" />
+        <item itemvalue="Application.G_55_Bridges_in_Graph_Using_Tarjans_Algorithm_of_Time_in_and_Low_Time" />
+        <item itemvalue="Application.G_54_Strongly_Connected_Components_Kosaraju_Algorithm" />
+        <item itemvalue="Application.G_53_Most_Stones_Removed_with_Same_Row_or_Column_DSU" />
+        <item itemvalue="Application.G_52_Making_a_Large_Island_DSU" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28c77ad6-5540-4f7c-bb9e-032009173540" name="Changes" comment="" />
+      <created>1686680892839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686680892839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/GRAPH/G_31_Word_Ladder_II_Optimized_Approach_For_LeetCode.java</url>
+          <line>18</line>
+          <properties class="GRAPH.G_31_Word_Ladder_II_Optimized_Approach_For_LeetCode" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/GRAPH/G_31_Word_Ladder_II_Optimized_Approach_For_LeetCode.java</url>
+          <line>42</line>
+          <properties class="GRAPH.G_31_Word_Ladder_II_Optimized_Approach_For_LeetCode" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
